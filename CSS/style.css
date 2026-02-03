@@ -39,3 +39,11 @@ li {
   padding: 20px;
   margin: 10px;
 }
+#list {
+    font-size:large;
+    font-weight: bold;
+}
+#title {
+    font-size:larger;
+    text-decoration-line: inherit;
+}
