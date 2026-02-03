@@ -13,8 +13,8 @@ footer {
 .popular-songs {
     font-size: 24px;
     font-weight: bold;
-    text-decoration:black underline;
-    : 2px solid black;
+    text-decoration: underline;
+    border-bottom: 2px solid black;
 }
 .facts {
     font-size: 24px;
