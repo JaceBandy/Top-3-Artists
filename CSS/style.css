@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-color: dodgerblue;
+    font-family: Arial, sans-serif;
+}
+footer {
+    text-align: right;
+    font-size: small;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.popular-songs {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration:black underline;
+    : 2px solid black;
+}
+.facts {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration:black underline;
+    
+}
+img {
+  border: 3px solid black;
+}
+li {
+    margin-bottom: 10px;
+    text-wrap: wrap;
+    font-size: medium;
+}
+.flex-container {
+  display: flex;
+}
+
+.box {
+  background-color: lightblue;
+  padding: 20px;
+  margin: 10px;
+}
